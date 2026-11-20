@@ -1,6 +1,6 @@
 # Source and checker attribution
 
-José Brox supplied the explicit 229-variable construction. The selected
+Jose Brox supplied the explicit 229-variable construction. The selected
 nine data files are unchanged from PR158 at contributor head
 `1358a662254b4122b14e6da980ba63ff3af2368d`, merged as
 `b013ec5319c25d427b55a1f18e9be753ed392bf7`. `INPUTS.json` preserves the
@@ -14,7 +14,7 @@ independent finite checkers. They read the selected data and do not
 execute the contributor's scripts. The torsion-height and local arguments
 use Brox's accepted note and its supplier as inputs, with their hypotheses
 and retained source applications stated in the manuscript. The 247 and
-250 constructions retain Gemini 4 Carbon's and José Brox's credits.
+250 constructions retain Gemini 4 Carbon's and Jose Brox's credits.
 
 This notice does not relicense third-party material or claim that the
 229-variable count is optimal. The earlier input files and all released

@@ -1,7 +1,7 @@
 # Construction provenance
 
 The six data files in `INPUTS.json` are unchanged selections from Gemini 4
-Carbon's `20261117-0035` explicit247 package. They build on José Brox's
+Carbon's `20261117-0035` explicit247 package. They build on Jose Brox's
 construction and the Version 19 arithmetic specialization at `N = 10220`.
 The original 244-coordinate source is byte-identical to the retained Version 19
 input. The Version 19 input inventory and its notices retain the provenance of

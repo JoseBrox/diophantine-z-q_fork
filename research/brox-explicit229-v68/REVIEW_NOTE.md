@@ -4,7 +4,7 @@
 
 **Upstream base:** `elliotglazer/diophantine-z-q@54a4e576f1c8c577f33b0b97a2cedb5ca96af642` (published Version 20). PR #153 has merged with a distinct 247-variable candidate. This proposal must not modify any frozen release.
 
-**Original source:** `JoseBrox/diophantine-z-q_improvements@7501669160c1662a742ddd54baed364a47c82ddc`, `computation/quartic/explicit229_v62/quadratic.json`; exact source SHA-256 `f0e6fc3f62525d7b251a10fc5f4cf0e6663c3f6f08beeef3cb28092b2e1555a8`. The compact construction is documented at `papers/quartic/quartic229_compact_20261117_v68.tex` in José Brox's repository.
+**Original source:** `JoseBrox/diophantine-z-q_improvements@7501669160c1662a742ddd54baed364a47c82ddc`, `computation/quartic/explicit229_v62/quadratic.json`; exact source SHA-256 `f0e6fc3f62525d7b251a10fc5f4cf0e6663c3f6f08beeef3cb28092b2e1555a8`. The compact construction is documented at `papers/quartic/quartic229_compact_20261117_v68.tex` in Jose Brox's repository.
 
 ## Mathematical statement and proof (relative to source arithmetic)
 
@@ -56,7 +56,7 @@ The main checker uses the Python standard library and is independent of the buil
 
 ## Attribution and AI involvement
 
-The source 195-variable quadratic construction and the new 229-coordinate inverse-Vieta graft are due to José Brox's project. The upstream three-detector method is attributed in the source's `PROVENANCE.json` to Gemini Carbon, building on Brox's work. The reflected center `3/11` was an already documented sibling choice. The exact diagonal normalization and compact representation are documented in José Brox's v68 package. GPT-6 independently recomputed every transformation and expanded coefficient in JavaScript BigInt arithmetic, compared the canonical literal text and prepared this candidate submission; this does **not** constitute a formal proof or an authorized Protocol B outside review. No claim of fresh human or external-model acceptance is made.
+The source 195-variable quadratic construction and the new 229-coordinate inverse-Vieta graft are due to Jose Brox's project. The upstream three-detector method is attributed in the source's `PROVENANCE.json` to Gemini Carbon, building on Brox's work. The reflected center `3/11` was an already documented sibling choice. The exact diagonal normalization and compact representation are documented in Jose Brox's v68 package. GPT-6 independently recomputed every transformation and expanded coefficient in JavaScript BigInt arithmetic, compared the canonical literal text and prepared this candidate submission; this does **not** constitute a formal proof or an authorized Protocol B outside review. No claim of fresh human or external-model acceptance is made.
 
 ## Review and release routing
 

@@ -1,6 +1,6 @@
 # Version 21 release notes, prepared for approval
 
-Version 21 adopts José Brox's explicit 229-variable quartic, with 3,312
+Version 21 adopts Jose Brox's explicit 229-variable quartic, with 3,312
 nonzero monomials, largest absolute coefficient 149^30 < 2^217, and a
 74,007-byte plain decimal expression. It preserves the 195-variable
 quartic with Busy Beaver coefficients, and retains the 247 and 250

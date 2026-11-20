@@ -1,7 +1,7 @@
 # Version 19
 
 The complete [PDF](manuscripts/quartic_v19.pdf) and [TeX](manuscripts/quartic_v19.tex)
-incorporate José Brox's 195-variable family and Gemini Carbon's explicit
+incorporate Jose Brox's 195-variable family and Gemini Carbon's explicit
 250-variable quartic built from Brox's construction. Counts include the input.
 
 The 195-variable polynomial has 2,956 nonzero coordinate monomials. Its

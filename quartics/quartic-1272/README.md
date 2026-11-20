@@ -2,7 +2,7 @@
 
 This package contains a complete explicit integer quartic with 1272 variables, including one input, and 48001 nonzero monomials. Its exact coefficient height is `64*3^(2^28)`. The coefficient of the input's fourth power is one, so the polynomial has degree four and primitive integer coefficients.
 
-The polynomial is an independent reconstruction from José Brox's public formulas. It is not a recovered copy of the unavailable 1315-variable polynomial. The complete table is [polynomial.json](polynomial.json), with SHA-256
+The polynomial is an independent reconstruction from Jose Brox's public formulas. It is not a recovered copy of the unavailable 1315-variable polynomial. The complete table is [polynomial.json](polynomial.json), with SHA-256
 
 ```text
 02e4771ba6e6c2abc749e33e8440cc256939f48005d5102fba7d9853489c8586

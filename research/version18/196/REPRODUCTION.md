@@ -1,6 +1,6 @@
 # Reproducing the selected 196-variable table
 
-This directory contains a portable copy of the independent audit of José Brox's 196-variable reduction at commit `5c35db3253a70b0875acec4b451cdaac4da3c8fd` of `JoseBrox/diophantine-z-q_improvements`. The reduction uses the unbalanced Conant198 parent. Keep the complete `../198/` directory for its arithmetic proof provenance, original package and separate reproduction. No author or publication agreement is changed here.
+This directory contains a portable copy of the independent audit of Jose Brox's 196-variable reduction at commit `5c35db3253a70b0875acec4b451cdaac4da3c8fd` of `JoseBrox/diophantine-z-q_improvements`. The reduction uses the unbalanced Conant198 parent. Keep the complete `../198/` directory for its arithmetic proof provenance, original package and separate reproduction. No author or publication agreement is changed here.
 
 The selected table is `upstream/source/computation/quartic/laurent_recovery_v38/family196/polynomial.json`. Its SHA-256 is `a8ab93d66fe83f4bdfd4b176d47c250c2e124f42535d7a6a133edff6a97389ad`. It has 196 total variables including the input, 195 existential variables, 182 quadratic summands and 2,943 coordinate monomials. The separate balanced table is checked as an existing comparison; it is not the Version 18 presentation. In the upstream paper, the headline `P_N` is balanced. Identify the selected unbalanced table by its path and hash.
 

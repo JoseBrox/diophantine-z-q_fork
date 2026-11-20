@@ -1,6 +1,6 @@
 # Version 19: 195 variables and an explicit 250-variable polynomial
 
-Version 19 incorporates José Brox's 195-variable reduction of the retained
+Version 19 incorporates Jose Brox's 195-variable reduction of the retained
 196-variable construction, and Gemini Carbon's explicit 250-variable
 construction built from Brox's additive-detector framework. The manuscript
 contains the arithmetic argument, both directions of the rational-solution

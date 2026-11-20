@@ -1,7 +1,7 @@
 # Version 19
 
 The complete [manuscript](../../manuscripts/quartic_v19.pdf) and
-[TeX source](../../manuscripts/quartic_v19.tex) incorporate José Brox's
+[TeX source](../../manuscripts/quartic_v19.tex) incorporate Jose Brox's
 195-variable quartic family and Gemini Carbon's explicit 250-variable quartic,
 which uses Brox's construction as its arithmetic foundation. Both counts include
 the rational input. Earlier published manuscripts remain unchanged.

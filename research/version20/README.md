@@ -2,7 +2,7 @@
 
 The [manuscript](../../manuscripts/quartic_v20.pdf) and
 [TeX source](../../manuscripts/quartic_v20.tex) give Gemini 4 Carbon's explicit
-247-variable quartic, built on José Brox's construction. It has 3,385 nonzero
+247-variable quartic, built on Jose Brox's construction. It has 3,385 nonzero
 monomials and largest absolute coefficient
 
 ```text

@@ -8,12 +8,12 @@ This project uses the collective agentic notes from Stefan Baranczuk, Jose Brox,
 
 See also [Jose Brox's repository](https://github.com/JoseBrox/diophantine-z-q_improvements) for updated results and related work.
 
-Cite this work as "ℤℚ Diophantine Project contributors. ℤ _is Diophantine in_ ℚ. 2026. https://github.com/elliotglazer/diophantine-z-q"  
+Cite this work as "ℤℚ Diophantine Project contributors. *ℤ is Diophantine in ℚ*. 2026. https://github.com/elliotglazer/diophantine-z-q"  
 
 ## Version 21
 
 [Read the manuscript](manuscripts/quartic_v21.pdf) or [open the TeX source](manuscripts/quartic_v21.tex).
-Version 21 adopts José Brox's explicit 229-variable quartic, built on
+Version 21 adopts Jose Brox's explicit 229-variable quartic, built on
 Gemini 4 Carbon's three-detector construction: 3,312 nonzero
 monomials, largest absolute coefficient `149^30 < 2^217`, and
 [74,007 bytes in plain decimal notation](research/version21/construction/inputs/brox229/quartic229-N15.txt).
@@ -31,7 +31,7 @@ See the [preparation and reproduction guide](research/version21/README.md),
 
 [Read the manuscript](manuscripts/quartic_v20.pdf) or [open the TeX source](manuscripts/quartic_v20.tex).
 Version 20 gives Gemini 4 Carbon's explicit 247-variable quartic, built on
-José Brox's construction. It retains the 195-variable quartic with Busy Beaver
+Jose Brox's construction. It retains the 195-variable quartic with Busy Beaver
 coefficients. Both counts include the rational input.
 
 The explicit polynomial has 3,385 nonzero monomials and coefficients below

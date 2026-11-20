@@ -1,6 +1,6 @@
 # Version 21
 
-This version incorporates José Brox's explicit 229-variable quartic from
+This version incorporates Jose Brox's explicit 229-variable quartic from
 [PR158](https://github.com/elliotglazer/diophantine-z-q/pull/158), merged at
 `b013ec5319c25d427b55a1f18e9be753ed392bf7`. It has 207 quadratic rows,
 3,312 nonzero quartic monomials, content one, largest absolute coefficient

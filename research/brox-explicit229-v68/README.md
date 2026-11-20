@@ -23,7 +23,7 @@ The final literal polynomial is [quartic229-N15.txt](quartic229-N15.txt): 229 to
 - `quartic229-N15.txt`: complete canonical ASCII expression.
 - `build.py`: deterministic reproduction of the three final algebra artifacts.
 - `check.py`: standalone exact rational/integer checker; does not import the builder.
-- `check_independent.py`: independent SymPy reconstruction, strict parsing, inverse substitution, comparison of arithmetic text and printed exponent tables; only local path resolution was adapted from José Brox's original checker for this folder.
+- `check_independent.py`: independent SymPy reconstruction, strict parsing, inverse substitution, comparison of arithmetic text and printed exponent tables; only local path resolution was adapted from Jose Brox's original checker for this folder.
 - `upstream/measure_plain_text.py` and `upstream/explicit-record-README.md`: unchanged pinned upstream copies.
 
 From this directory:

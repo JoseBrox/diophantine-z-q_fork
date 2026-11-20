@@ -1,7 +1,7 @@
 # Construction sources
 
 The selected Brox source files under `inputs/jose/` are copied unchanged from
-[José Brox's repository](https://github.com/JoseBrox/diophantine-z-q_improvements)
+[Jose Brox's repository](https://github.com/JoseBrox/diophantine-z-q_improvements)
 at commit `cd474ee67104586c9d71885a7c95e8a21f12ca0c`. Their exact original bytes
 are identified in `INPUTS.json`.
 Brox's repository distributes this material under the Creative Commons
