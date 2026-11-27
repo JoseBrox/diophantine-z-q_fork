@@ -156,3 +156,7 @@ material is CC BY 4.0; third-party publications are cited, not reproduced.
 GPT-6.2 reconstructed the package and executed the final BigInt check;
 earlier AI-assisted work is credited in the source annex. No new human
 or independent Protocol B approval is asserted.
+
+## Review-round repair
+
+See [REPAIR.md](REPAIR.md) for the disposition of the first-round findings, the now-local parent proof chain, explicit BB witness translation, direct final-pole decoding, and the end-to-end exact replay command `python -B check_all.py`. The final polynomial is unchanged. The author-side replays and the remaining independent review/eligible hosted evidence requirements are distinguished there.
